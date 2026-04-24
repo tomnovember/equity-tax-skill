@@ -54,7 +54,7 @@ Phase 3 · 分析与交付（全自动，输出备忘录）
 
 ## 开发过程
 
-本Skill使用[Skill Forge](链接)框架，从零开发耗时6小时。开发过程的完整记录见[文章](链接)。
+本Skill使用[Skill Forge](链接)框架，从零开发耗时6小时。
 
 ## 许可
 
@@ -63,3 +63,4 @@ Phase 3 · 分析与交付（全自动，输出备忘录）
 ## 作者
 
 唐梦 (TANG Meng)
+tomnovember@gmail.com
