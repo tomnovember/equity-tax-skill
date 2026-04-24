@@ -1,7 +1,6 @@
 # 股权税务架构分析 Skill
 
-一个经过[Skill Forge](https://github.com/tomnovember/skill-forge
-)训练的股权税务分析AI系统。覆盖境内非上市公司股权交易的主要场景，能够针对具体案例出具结构化的税务分析备忘录。
+一个经过[Skill Forge](https://github.com/tomnovember/skill-forge)训练的股权税务分析AI系统。覆盖境内非上市公司股权交易的主要场景，能够针对具体案例出具结构化的税务分析备忘录。
 
 ## 能力范围
 
